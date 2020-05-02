@@ -15,12 +15,12 @@
 2.5            Kappae
 2.5            Kappai
 1.0D-3         RatioNf
-6.D0           Uf
+5.D0           Uf
 1.0D0          RTfTe
 0.0D-4         RatioNb
 -6.D0          Ub
 1.0D0          RTbTe
-4.0D0          RTeTi 
+2.0D0          RTeTi 
 5.0D-3         G (Plasma parameter)
 4.0D-3         Ve2C2
 "Yes"          Lemis ("Yes" or "No ")
